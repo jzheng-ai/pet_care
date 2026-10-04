@@ -1,0 +1,17 @@
+# Local settings and secrets
+.env
+.env.*
+!.env.example
+.codex/
+.aws/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.log
+
+# Optional development dependencies
+node_modules/
